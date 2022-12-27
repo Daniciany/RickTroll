@@ -43,6 +43,25 @@
         "ostream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "xhash": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp",
+        "xstring": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "ios": "cpp",
+        "list": "cpp",
+        "mutex": "cpp",
+        "ratio": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp",
+        "xfacet": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp",
+        "xstddef": "cpp",
+        "xtr1common": "cpp"
     }
 }
