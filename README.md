@@ -4,6 +4,7 @@
 Internet connection is <ins>NOT</ins> required!
 <hr>
 Just download the repository
+or clone -> git clone https://github.com/Daniciany/RickTroll.git
 
 ### features:
 1. starts videos of Mr. Rick Astley
